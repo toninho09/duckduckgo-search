@@ -1,0 +1,35 @@
+{
+	"name": "@toninho09/duckduckgo-search",
+	"version": "1.0.0",
+	"description": "Pi coding agent skill: web search and webpage content extraction via DuckDuckGo — no API key, zero dependencies.",
+	"keywords": [
+		"pi-package",
+		"pi-skill",
+		"duckduckgo",
+		"search",
+		"web-search",
+		"web-scraping"
+	],
+	"license": "MIT",
+	"author": "toninho09",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/toninho09/duckduckgo-search.git"
+	},
+	"bugs": "https://github.com/toninho09/duckduckgo-search/issues",
+	"homepage": "https://github.com/toninho09/duckduckgo-search#readme",
+	"type": "module",
+	"engines": {
+		"node": ">=18"
+	},
+	"files": [
+		"skills",
+		"README.md",
+		"LICENSE"
+	],
+	"pi": {
+		"skills": [
+			"./skills"
+		]
+	}
+}
