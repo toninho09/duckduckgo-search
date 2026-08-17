@@ -1,6 +1,6 @@
 {
 	"name": "@toninho09/duckduckgo-search",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "Pi coding agent skill: web search and webpage content extraction via DuckDuckGo — no API key, zero dependencies.",
 	"keywords": [
 		"pi-package",
